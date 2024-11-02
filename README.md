@@ -1,5 +1,3 @@
-![Devicons](https://cdnjs.cloudflare.com/ajax/libs/devicons/2.2.0/css/devicons.min.css)
-
 
 <h1 align="center">⚠️ВНИМАНИЕ, $USERNAME$! ТЫ НА ГРАНИ УНИЧТОЖЕНИЯ⚠️</h1>
 <h3 align="center">🔪 Нет инструкций. Нет гарантий. Только боль и возможности. 🔪</h3>
@@ -77,5 +75,12 @@
   <li>✏️ <b>Дизайн:</b> Генерация визуальных решений, в особенности постеров и отдельных дизайнов.</li>
 </ul>
 
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![Solidity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg)
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
 
 ---
