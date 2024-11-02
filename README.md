@@ -88,8 +88,9 @@
 ---
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=charonikhh&show_icons=true&theme=merko" alt="CharonIKH GitHub stats" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charonikhh&layout=donut)](https://github.com/charonikhh)
+[![CharonIKH GitHub stats](https://github-readme-stats.vercel.app/api?username=charonikhh&show_icons=true&theme=merko)](https://github.com/charonikhh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charonikhh&layout=donut)](https://github.com/charonikhh)
 
 
 ---
