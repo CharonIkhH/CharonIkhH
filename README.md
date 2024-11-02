@@ -1,3 +1,6 @@
+![Devicons](https://cdnjs.cloudflare.com/ajax/libs/devicons/2.2.0/css/devicons.min.css)
+
+
 <h1 align="center">⚠️ВНИМАНИЕ, $USERNAME$! ТЫ НА ГРАНИ УНИЧТОЖЕНИЯ⚠️</h1>
 <h3 align="center">🔪 Нет инструкций. Нет гарантий. Только боль и возможности. 🔪</h3>
 
