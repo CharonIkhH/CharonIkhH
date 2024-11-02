@@ -87,7 +87,7 @@
 
 ![CharonIKH GitHub stats](https://github-readme-stats.vercel.app/api?username=charonikhh&show_icons=true&theme=merko)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charonikhh&show_icons=true&locale=en" alt="charonikhh" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charonikhh&langs_count=8)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charonikhh&" alt="charonikhh" /></p>
 
