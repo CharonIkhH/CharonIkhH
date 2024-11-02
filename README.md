@@ -214,9 +214,6 @@
     </p>
   </div>
   <div style="flex: 1; align: right;">
-    <img src="Charon2.jpg" alt="Photo 1" width="100" height="100" style="margin: 5px;"/>
-    <img src="Charon3.jpg" alt="Photo 2" width="100" height="100" style="margin: 5px;"/>
-    <img src="Charon4.jpg" alt="Photo 3" width="100" height="100" style="margin: 5px;"/>
-    <img src="Charon5.jpg" alt="Photo 4" width="100" height="100" style="margin: 5px;"/>
+ФОТО (потом)
   </div>
 </div>
