@@ -8,6 +8,8 @@ There will be many edits in this ?description?, since I am just starting to desi
 - 💬 Ask me about: frontend, python projects, Poster, UI/UX and web-designs.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharonIkhH&show_icons=true&theme=tokyonight)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharonIkhH&layout=compact&theme=radical)
+
 
 ## A little about me
 I am a frontend specialist, designer and web designer. I work with HTML, CSS, and JavaScript, and I am also mastering React and various UI libraries to create unique and convenient user experience.
