@@ -82,6 +82,9 @@
 ---
 
 <p align="center">
+  <i>Запрос получения доступа об информации стэков администратора...</i>
+</p>
+<p align="center">
   <b>⚠️ Обнаружены следующий стэк скиллов: ⚠️</b>
 </p>
 
@@ -175,7 +178,13 @@
 
 ---
 
-[![CharonIKH GitHub stats](https://github-readme-stats.vercel.app/api?username=charonikhh&show_icons=true&theme=merko)](https://github.com/charonikhh)
+
+<p align="center">
+  <i>Получение статистических данных администратора...</i>
+</p>
+<p align="center">
+  <b>⚠️ Обнаружена плачевная статитика: ⚠️</b>
+</p>[![CharonIKH GitHub stats](https://github-readme-stats.vercel.app/api?username=charonikhh&show_icons=true&theme=merko)](https://github.com/charonikhh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charonikhh&layout=donut)](https://github.com/charonikhh)
 
