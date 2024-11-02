@@ -1,9 +1,4 @@
 <h1 align="center">⚠️ ВНИМАНИЕ, USERNAME! ТЫ НА ГРАНИ УНИЧТОЖЕНИЯ ⚠️</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2xPGCsFXAAlVfDrLOy/giphy.gif" width="300" alt="Cyberpunk glitch effect">
-</p>
-
 <h3 align="center">🔪 Нет инструкций. Нет гарантий. Только боль и возможности. 🔪</h3>
 
 ---
