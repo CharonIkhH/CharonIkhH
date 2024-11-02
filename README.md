@@ -147,8 +147,7 @@
 <h2 align="center" style="color: #ff0000;">🔗 Связь со мной 🔗</h2>
 <p align="center">
   <a href="https://github.com/CharonIkhH" target="_blank" rel="noreferrer">🧑‍💻 GitHub</a> | 
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noreferrer">👔 LinkedIn</a> | 
-  <a href="mailto:your-email@example.com">📧 Email</a>
+  <a href="https://www.instagram.com/charon.ikhh/" target="_blank" rel="noreferrer">📷 Instagram</a> | 
 </p>
 
 ---
