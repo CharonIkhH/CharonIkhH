@@ -1,21 +1,17 @@
-There will be many edits in this ?description?, since I am just starting to design the profile, so please wait for the final result regarding the design of this section, thank you all, love u all <3
+<h1 align="center">⚠️ ВНИМАНИЕ, USERNAME! ТЫ НА ГРАНИ УНИЧТОЖЕНИЯ ⚠️</h1>
 
-# Hello! 👋 I'm Dmitry.
-### Frontend Developer | Designer | Web Designer
+<p align="center">
+  <img src="https://media.giphy.com/media/2xPGCsFXAAlVfDrLOy/giphy.gif" width="300" alt="Cyberpunk glitch effect">
+</p>
 
-- 🔭 Currently working on Doomsday: Last Survivors (Python-Project) bot and new Parallax Website (Frontend-project).
-- 🌱 Studying: Web3 structure, JavaScript, React, Python, and modern CSS methodologies.
-- 💬 Ask me about: frontend, python projects, Poster, UI/UX and web-designs.
+<h3 align="center">🔪 Нет инструкций. Нет гарантий. Только боль и возможности. 🔪</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharonIkhH&show_icons=true&theme=tokyonight)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharonIkhH&layout=compact&theme=radical)
+---
 
+<p align="center">
+  <i>Ты на чужой земле, но если готов сражаться — дерзай. Против системы, против правил, против любого, кто встанет на пути.</i>
+</p>
 
-## A little about me
-I am a frontend specialist, designer and web designer. I work with HTML, CSS, and JavaScript, and I am also mastering React and various UI libraries to create unique and convenient user experience.
-
-## 🛠️ Skills and tools
-- **Languages:** HTML5, CSS3, JavaScript, Python.
-- **Frameworks and libraries:** React, Bootstrap, jQuery, Django
-- **Design tools:** Photoshop, CSS3, 
-- **Development tools:** Git, VS Code
+<p align="center">
+  <b>⚡ В этом мире слабые не выживают. Тебя ждет либо триумф, либо крушение. Решай, на что ты готов. ⚡</b>
+</p>
