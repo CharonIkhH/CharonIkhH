@@ -88,7 +88,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charonikhh&show_icons=true&theme=merko" alt="CharonIKH GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charonikhh&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charonikhh&layout=donut-vertical)" alt="Top Langs" />
 </div>
 
 
