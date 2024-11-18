@@ -148,7 +148,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1; text-align: left;">
     <p align="left">
-      <i>Имя: Кибер-Клоун</i><br>
+      <i>Имя: Дмитрий</i><br>
       <i>Возраст: 22 года</i><br>
       <i>Семейное положение: Помолвлен</i><br>
       <i>Местоположение: Латвия</i><br>
